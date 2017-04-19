@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mockito Testing</string>
+    <string name="username_error">username can not be empty</string>
+    <string name="password_error_empty">password can not be empty</string>
+    <string name="password_error_length">password must be at least 6 character</string>
+    <string name="login_error">Username or Password Invalid!</string>
+</resources>
